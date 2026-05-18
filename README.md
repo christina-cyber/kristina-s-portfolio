@@ -1,5 +1,5 @@
 
-  # User request
+  # KRISHTINA'S PORTFOLIO
 
   This is a code bundle for User request. The original project is available at https://www.figma.com/design/gLs4yuAEBsuK0ir6sDkopI/User-request.
 
